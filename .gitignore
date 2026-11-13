@@ -1,0 +1,17 @@
+# 大文件与仿真产物不入库
+*.fsp
+*.lms
+*.npz
+*.h5
+*.hdf5
+*.ldev
+*.icp
+*.mat
+*.bin
+*.log
+*.err
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

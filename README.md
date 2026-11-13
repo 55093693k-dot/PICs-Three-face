@@ -12,8 +12,7 @@
 ![三幅图案](figures/three_faces_sqrt.png)
 
 > 上图为仿真直接输出的 |E|² 场图（平方根压缩显示，使强场与弱场结构同时可见）。
-> `figures/three_faces_linear.png` 为同一数据的线性色标版本（满量程取总线峰值），
-> 更接近目视观感，**作为辅助**。
+> `figures/three_faces_linear.png` 为同一数据的线性色标版本（满量程取总线峰值）。
 
 ## 1. 题目要求
 
